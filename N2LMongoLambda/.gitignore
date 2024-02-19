@@ -1,0 +1,6 @@
+.idea/
+.docker/data
+node_modules
+vendor/
+.env
+*.zip

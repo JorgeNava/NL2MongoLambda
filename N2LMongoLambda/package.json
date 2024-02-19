@@ -1,0 +1,15 @@
+{
+  "name": "nl2mongo-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zip": "zip -r my_deployment_package.zip ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nl2mongo": "^1.1.1"
+  }
+}
