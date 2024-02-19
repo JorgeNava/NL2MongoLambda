@@ -1,2 +1,1 @@
-Create zip for AWS Lambda Functions
-zip -r my_deployment_package.zip .
+AWS Labmbda function that implements nl2mongo library.
